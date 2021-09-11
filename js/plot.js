@@ -18,8 +18,8 @@ const borderColor = [
   COLORS.green,
   COLORS.red,
   COLORS.orange,
-  COLORS.yellow,
   COLORS.red,
+  COLORS.orange,
   COLORS.orange,
   COLORS.yellow
 ];
