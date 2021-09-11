@@ -1,0 +1,18 @@
+.chart {
+    width: 50%;
+    margin: 2em auto;
+    height:200px;
+}
+
+canvas {
+    width: 100%;
+}
+
+.controls {
+    text-align: center;
+}
+button#runBtn {
+    vertical-align: middle;
+    font-size: 0.8em;
+    margin-left: 0.5em;
+}
